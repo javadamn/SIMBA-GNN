@@ -5,14 +5,14 @@ xfeeding_graph/
 │   ├── ListofModelsforSpecies.csv
 │   └── pairwise_results.csv
 ├── models/
-│   └── cross_feeding_gnn.py
+│   └── xfeeding_gnn.py
 ├── utils/
 │   ├── data_utils.py
 │   ├── training.py
 │   ├── evaluation.py
 │   ├── analysis.py
 │   └── visualization.py
-├── train.py
-├── evaluate.py
-└── requirements.txt
+├── train_graph.py
+├── eval_graph.py
+└── README.txt
 
