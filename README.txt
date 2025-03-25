@@ -1,9 +1,9 @@
 xfeeding_graph/
 ├── data/
-│   ├── agora_models
+│   ├── agora_models/
 │   	├── ...
 |		#xml models
-│   ├── pairs_results
+│   ├── pairs_results/
 │   	├── ...
 |		#results of pairwise simulations
 │   ├── anaerobic_strains.csv
@@ -19,7 +19,10 @@ xfeeding_graph/
 │   ├── analysis.py
 │   └── visualization.py
 |
-├── cobra_sampling/                      
+├── sampling/
+│   ├── pairs_results/
+│   	├── generate_genra_list.py
+│   	├── get_list_of_anaerobes.py
 │   ├── run_sampling.py                
 │   ├── cobra_utils.py                
 │   ├── sampling_utils.py               
