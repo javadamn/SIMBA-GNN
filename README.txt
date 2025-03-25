@@ -1,17 +1,17 @@
 xfeeding_graph/
 ├── data/
 │   ├── agora_models/
-│   	├── ...
-|		#xml models
+│   	├── ...     #xml models
 │   ├── pairs_results/
-│   	├── ...
-|		#results of pairwise simulations
+│   	├── ...      #results of pairwise simulations
 │   ├── anaerobic_strains.csv
 │   ├── SamplesSpeciesRelativeAbundance_modified_final.csv
 │   ├── ListofModelsforSpecies.csv
 │   └── pairwise_results.csv
+|
 ├── models/
 │   └── xfeeding_gnn.py
+|
 ├── utils/
 │   ├── data_utils.py
 │   ├── training.py
