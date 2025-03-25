@@ -1,4 +1,4 @@
-xfeeding_graph/
+MetaBiomeX/
 ├── data/
 │   ├── agora_models/
 │   	├── ...     #xml models
