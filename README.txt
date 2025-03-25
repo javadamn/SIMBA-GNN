@@ -1,5 +1,11 @@
 xfeeding_graph/
 ├── data/
+│   ├── agora_models
+│   	├── ...
+|		#xml models
+│   ├── pairs_results
+│   	├── ...
+|		#results of pairwise simulations
 │   ├── anaerobic_strains.csv
 │   ├── SamplesSpeciesRelativeAbundance_modified_final.csv
 │   ├── ListofModelsforSpecies.csv
@@ -12,6 +18,15 @@ xfeeding_graph/
 │   ├── evaluation.py
 │   ├── analysis.py
 │   └── visualization.py
+|
+├── cobra_sampling/                      
+│   ├── run_sampling.py                
+│   ├── cobra_utils.py                
+│   ├── sampling_utils.py               
+│   ├── GEM_constraints_utils.py
+│   ├── analysis_utils.py
+│   └── io_utils.py                  
+│
 ├── train_graph.py
 ├── eval_graph.py
 └── README.txt
