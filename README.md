@@ -23,7 +23,7 @@ The code and details for SIMBA's GNN architecture are available at: [https://git
 - Pathway activity scoring based on KEGG and VMH annotations
 
 ### SIMBA pipeline
-![Cross-feeding overview](graph.jpg)
+![Cross-feeding overview](SIMBA.png)
 
 ## Requirements
 
