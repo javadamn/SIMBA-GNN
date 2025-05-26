@@ -29,7 +29,7 @@ The code and details for SIMBA's GNN architecture are available at: [https://git
 
 - Python 3.8+  
 - [COBRApy](https://github.com/opencobra/cobrapy)  
-- [optGpSampler](https://github.com/cdanielmachado/optGpSampler)  
+- 'optGpSampler'
 - numpy, pandas, scipy, matplotlib, seaborn
 
 ## Usage
