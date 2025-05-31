@@ -1,4 +1,5 @@
 # Microbial Cross-Feeding Simulation Pipeline for SIMBA-GNN
+<br>[![bioRxiv](https://img.shields.io/badge/bioRxiv-10.1101%2F2025.05.27.656377-orange)](https://doi.org/10.1101/2025.05.27.656377)<br>
 
 
 This repository contains code and data for simulating pairwise microbial interactions in the human gut microbiome. 
@@ -51,7 +52,7 @@ This pipeline complements the SIMBA framework, which models microbial community 
 
 If you use this repository, please cite the associated publication:
 
-> [Insert citation or preprint link here]
+> [https://doi.org/10.1101/2025.05.27.656377]
 
 ## License
 
